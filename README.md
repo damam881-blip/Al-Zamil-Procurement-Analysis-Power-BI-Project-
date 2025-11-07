@@ -50,7 +50,7 @@ For quick auditing and verification, flexible filters allow users to rapidly iso
 ### 📂 Project Files
 
 * **`.pbix` File:** You can download the complete Power BI report file (`AlZamil_Project.pbix`). **The data is embedded (imported) directly into this file**, allowing you to explore the data model, DAX measures, and interactive dashboard.
-* **`Images/` Folder:** Contains all final dashboard screenshots (like `Overview.jpg`, `Suppliers Analysis.jpg`, etc.) **as well as screenshots of the raw data structure** (`page 1 of data.jpg`, `page 2 of data.jpg`) as the original Excel file is not public.
+* **`Images/` Folder:** Contains all final dashboard screenshots (like `Overview.jpg`, `Suppliers Analysis.jpg`, etc.) **as well as screenshots of the raw data structure** (`page 1 of data.jpg`, `page 2 of data.jpg`, `page 3 of data.jpg`) as the original Excel file is not public.
 
 ---
 
