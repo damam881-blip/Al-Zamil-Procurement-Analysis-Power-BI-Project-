@@ -1,6 +1,4 @@
-# 📊 Power BI: Government Procurement Analysis (Healthcare Sector)
-
-**Final project for the Data Analysis Training at Al Zamil CPAs & Consultants (Aug-Sep 2025).**
+# 📊 Power BI: **Final project for the Data Analysis Training at Al Zamil CPAs & Consultants (Aug-Sep 2025).**
 
 This project transforms complex government procurement datasets into an actionable, insight-driven dashboard. The goal is to enhance clarity, transparency, and decision-making for stakeholders in the healthcare sector.
 
